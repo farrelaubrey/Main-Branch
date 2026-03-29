@@ -6,7 +6,7 @@ export default function DataDiriJillsya() {
         <img
           src="/jillsya.jpg"
           alt="foto"
-          className="w-32 h-32 mx-auto rounded-full mb-4"
+          className="w-32 h-32 mx-auto rounded-full mb-4 object-cover"
         />
 
         <h1 className="text-2xl font-bold mb-2">Jillsya</h1>
