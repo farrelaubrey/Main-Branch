@@ -33,6 +33,19 @@ function Home() {
           </Link>
         </div>
 
+        {/* Ihsan */}
+        <div className="bg-white p-6 rounded-2xl shadow-lg text-center">
+          <img
+            src="ihsan.jpeg"
+            className="w-24 h-24 rounded-full mx-auto"
+          />
+          <h2 className="mt-4 font-bold text-xl">Ihsan</h2>
+          <Link to="/ihsan">
+            <button className="mt-4 px-4 py-2 bg-orange-500 text-white rounded-lg">
+              Lihat Profil
+            </button>
+          </Link>
+        </div>
       </div>
     </div>
   );
